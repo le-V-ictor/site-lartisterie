@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lartisterie-designs.fr/sitemap.xml
